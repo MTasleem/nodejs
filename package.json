@@ -1,0 +1,26 @@
+{
+  "name": "restfull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aes-js": "^3.1.0",
+    "base64-min": "^2.0.0",
+    "crypto": "0.0.3",
+    "cryptocipher": "^1.0.3",
+    "cryptojs": "^2.5.3",
+    "http": "0.0.0",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0",
+    "restify": "^4.3.0",
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
